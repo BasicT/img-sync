@@ -1,2 +1,2 @@
-FROM nginx:stable-alpine
+FROM nginx:latest
 LABEL MAINTAINER=master@basict BUILDTYPE=Aliyun
